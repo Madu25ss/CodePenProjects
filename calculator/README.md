@@ -1,6 +1,6 @@
 # calculator
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Madu25ss/pen/NWordoe](https://codepen.io/Madu25ss/pen/NWordoe).
+A Pen created on CodePen.io. Original URL: https://codepen.io/Madu25ss/pen/JjxXZbx.
 
 A simple calculator that i made with my rusty front-end skills.
 
